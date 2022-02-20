@@ -1,0 +1,7 @@
+= Naming conventions =
+
+= File permissions =
+
+= Shell script formats =
+
+= Variables =

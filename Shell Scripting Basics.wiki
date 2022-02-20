@@ -1,0 +1,10 @@
+= Kernel =
+
+* Es el gestor entre el HW y el SW: HW --> Kernel --> Shell --> App --> Usuario.
+
+= Shell =
+
+* Es la interfaz entre el kernel y el SO.
+* Permite ejercutar comandos.
+* Para saber cuál es mi Shell: **echo $0**
+* Para ver qué otras Shell's hay disponibles: **cat /etc/shells/**.

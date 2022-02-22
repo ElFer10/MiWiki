@@ -1,6 +1,6 @@
-== Unidad_1: Maquinaria y equipos básicos de cocina utilizados en la preelaboración de vegetales y zetas]]== 
+= Maquinaria y equipos básicos de cocina utilizados en la preelaboración de vegetales y zetas =
 
-=== 1. Clasificación y descripción según características, funciones y aplicaciones ===
+== 1. Clasificación y descripción según características, funciones y aplicaciones ==
 
 1. Peladora de patatas: Pieza básica. Diseñada para cocinas donde se usan papas crudas o cocidas. 
 2. Cortadora de hortalizas: Usa discos variados para cada preparación: Rodajas, cubitos, troceada o juliana.
@@ -16,13 +16,13 @@
    la comida es más saludable y rica en vitaminas y nutrientes.
    La mayoría disponen de varios recipientes apilables: Los alimentos que necesitan más calor se ponen abajo y los que necesitan menos arriba.
    
-=== 2. Equipos básicos de cocina === 
+== 2. Equipos básicos de cocina ==
 
-==== 2.1 Equipos de frío ====
+=== 2.1 Equipos de frío ===
 
 Indispensables para conservar producto y utilizarlo en días posteriores. Hay varias clasificaciones:
     
-===== Cámaras frigoríficas: ===== 
+==== Cámaras frigoríficas ====  
 
 Instalación estatal o privada que almacena carnes o vegetales para comercializar posteriormente. Suelen estar dispuestas en orden para evitar cambios bruscos de temp entre una zona y otra:
 
@@ -47,7 +47,7 @@ Tienen termómetros e indicadores de humedad:
 * Entre 0 y 3 para pescados y carnes.
 * Entre 3 y 7 para lácteos, frutas y verduras.
 
-===== Congeladoras =====
+==== Congeladoras ====
 
 Para conservar por largo tiempo --> Temp: -18 ºC y Humedad: 50%.
 
@@ -60,10 +60,9 @@ Pueden usarse para **almacenaje** por lo que tienen estanterías para organizar.
 Baja la temperatura del producto recién cocinado rápidamente.
 Funciona al revés de un horno de convección, un ventilador hace circular aire frío y un sensor monitora la temperatura del producto.
 Baja la temperatura de 70 a 10 en menos de 2 horas.
-Realiza congelación rápida sin formar escarcha: baja de 70 a -18 en menos de 4 horas.
+Realiza congelación rápida sin formar escarcha: baja de **70 a -18 en menos de 4 horas**.
 
+==== Equipos móviles ====
 
-
-
-
-
+Existen vehículos isotérmicos (que mantienen temperatura constante) que permiten trasladar la mercancía con seguridad
+sin romper la cadena de frío.

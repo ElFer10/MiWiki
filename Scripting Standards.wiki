@@ -1,7 +1,14 @@
 = Naming conventions =
 
+* Crear siempre un directorio
+* El nomnre del script debe indicar su función
+* Debería tener extensión de acuerdo a la shell a la que está destinada: fechaactual.bash
+
 = File permissions =
+
+* Para ejecutar un script este debe ser ejecutable: **chmod a+x nombre-script**
 
 = Shell script formats =
 
-= Variables =
+* Empieza con la definición de la shell: **#!/bin/bash**
+* [[Añadir]] comentarios (se usa # para comentar) al inicio para decir de qué se trata la cosa

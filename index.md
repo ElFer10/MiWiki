@@ -4,6 +4,7 @@
 
 * [Ayudante de cocina](ayudante_cocina)
 * [Bash shell scripting](shell_scripting)
+* [Dark kitchen](dark_kitchen)
 
 ## IDEAS
 

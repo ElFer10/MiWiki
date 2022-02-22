@@ -1,2 +1,1 @@
-1. fasdfas
-   * fsdafasdR
+Todas las maquinarias deben tener: al

@@ -1,8 +1,0 @@
-= Ayudante de cocina =
-
-1. [[Unidad 1]]: Maquinaria y equipos básicos de cocina para vegetales y setas
-2. [[Unidad 2]]: Materias primas
-3. [[Unidad 3]]: Maquinaria y equipos básicos en la preelaboración de pescados, crustáceos y mariscos
-4. [[Unidad 4]]: Área de preparación de la zona pescados, crustáceos y mariscos
-5. [[Unidad 5]]: Maquinaria y equipos para carnes, caza y despojos
-6. [[Unidad 6]]: Áreas de preparación de la zona para carnes, aves y despojos

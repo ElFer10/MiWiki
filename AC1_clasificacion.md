@@ -1,28 +1,38 @@
-= Maquinaria y equipos básicos de cocina utilizados en la preelaboración de vegetales y zetas =
+# 1. Maquinaria
 
-== 1. Clasificación y descripción según características, funciones y aplicaciones ==
+## Peladora de patatas
 
-1. Peladora de patatas: Pieza básica. Diseñada para cocinas donde se usan papas crudas o cocidas. 
-2. Cortadora de hortalizas: Usa discos variados para cada preparación: Rodajas, cubitos, troceada o juliana.
-3. Envasadora al vacío: Extrae el oxígeno del recipiente evitando la oxidación y putrefacción del alimento.
-   El envase cumple las funciones de:
-   
-   + Contener alimento
-   + Protegerlo del deterioro físico y químico.
-   + Informar al cliente sobre el producto.
-   
-4. Cocedora de vapor: Se compone de un depósito de agua con resistencia térmica y un recipiente para alimentos. El agua se calienta generando el vapor.
-   El calor nunca supera los 100 grados de modo que el sabor de los alimentos se conserva mejor. No hace falta usar aceite ni grasas por lo tanto
-   la comida es más saludable y rica en vitaminas y nutrientes.
-   La mayoría disponen de varios recipientes apilables: Los alimentos que necesitan más calor se ponen abajo y los que necesitan menos arriba.
-   
-== 2. Equipos básicos de cocina ==
+* Pieza básica. 
+* Diseñada para cocinas donde se usan papas crudas o cocidas. 
 
-=== 2.1 Equipos de frío ===
+## Cortadora de hortalizas
+
+* Usa discos variados para cada preparación: Rodajas, cubitos, troceada o juliana.
+ 
+## Envasadora al vacío
+
+* Extrae el oxígeno del recipiente evitando la oxidación y putrefacción del alimento.
+* El envase cumple las funciones de:
+   
+  + Contener alimento
+  + Protegerlo del deterioro físico y químico.
+  + Informar al cliente sobre el producto.
+   
+## Cocedora de vapor
+
+* Se compone de un depósito de agua con resistencia térmica y un recipiente para alimentos. 
+* El agua se calienta generando el vapor.
+* El calor nunca supera los 100 grados ==> el sabor de los alimentos se conserva mejor. 
+* No usa aceite ni grasas ==> la comida es más saludable y rica en vitaminas y nutrientes.
+* La mayoría disponen de varios recipientes apilable
+   
+# 2. Equipos básicos de cocina
+
+## 2.1 Equipos de frío
 
 Indispensables para conservar producto y utilizarlo en días posteriores. Hay varias clasificaciones:
     
-==== Cámaras frigoríficas ====  
+### A. Cámaras frigoríficas
 
 Instalación estatal o privada que almacena carnes o vegetales para comercializar posteriormente. Suelen estar dispuestas en orden para evitar cambios bruscos de temp entre una zona y otra:
 

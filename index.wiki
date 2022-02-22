@@ -1,8 +1,0 @@
-= Cosas que aprendo =
-
-1. [[Ayudante_de_cocina]]
-2. [[Shell_scripting]]
-
-Mi token
-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
-

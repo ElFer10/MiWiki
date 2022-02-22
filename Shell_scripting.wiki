@@ -1,8 +1,0 @@
-= Índice = 
-
-1. [[Shell Scripting Basics]]
-2. [[Scripting Standards]]
-3. [[Basic schell scripts]]
-4. [[Real life scripts]]
-5. [[Extras]]
-

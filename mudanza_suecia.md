@@ -2,7 +2,7 @@
 
 * [ ] Pasaverduras
 * [ ] Máquina de pasta
-* [ ] Tablita de gnocci
+* [ ] Tablita de gnocchi
 * [ ] Airlock y 2 tapones (el grande y el chico)
 * [ ] Densímetro
 * [ ] Enchapadora
@@ -11,3 +11,4 @@
 * [ ] Piadinera (para tapar olla y hacer tortillas)
 * [ ] PlayStation
 * [ ] Airport
+* [ ] Cosa para hacer rolls (1er cajón cocina)

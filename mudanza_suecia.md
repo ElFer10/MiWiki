@@ -12,3 +12,6 @@
 * [ ] PlayStation
 * [ ] Airport
 * [ ] Cosa para hacer rolls (1er cajón cocina)
+* [ ] Rasqueta de metal (la que uso para lasagnas)
+* [ ] Mortero
+* [ ] Cortador de ravioles

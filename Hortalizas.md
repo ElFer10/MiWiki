@@ -31,5 +31,5 @@
 
 ## [ESPECIES MÁS UTILIZADAS](AC2_especies_utilizadas)
 
-## Categorías_comerciales
+## [Categorías_comerciales](AC_categorias_comerciales)
 
